@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O/cBlCYJMLucBV93jXOr0+zlu41bRAWih0UUv2UsdnY=",
+  "Source": "Packer-Challenge",
+  "BasePath": "_content/Packer-Challenge",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

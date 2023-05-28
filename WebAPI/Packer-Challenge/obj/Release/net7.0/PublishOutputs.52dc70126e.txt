@@ -1,0 +1,12 @@
+/Users/katlegonkuna/Projects/Packer-Challenge/Packer-Challenge/bin/Release/net7.0/publish/Packer-Challenge
+/Users/katlegonkuna/Projects/Packer-Challenge/Packer-Challenge/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/katlegonkuna/Projects/Packer-Challenge/Packer-Challenge/bin/Release/net7.0/publish/appsettings.json
+/Users/katlegonkuna/Projects/Packer-Challenge/Packer-Challenge/bin/Release/net7.0/publish/Packer-Challenge.dll
+/Users/katlegonkuna/Projects/Packer-Challenge/Packer-Challenge/bin/Release/net7.0/publish/Packer-Challenge.deps.json
+/Users/katlegonkuna/Projects/Packer-Challenge/Packer-Challenge/bin/Release/net7.0/publish/Packer-Challenge.runtimeconfig.json
+/Users/katlegonkuna/Projects/Packer-Challenge/Packer-Challenge/bin/Release/net7.0/publish/Packer-Challenge.pdb
+/Users/katlegonkuna/Projects/Packer-Challenge/Packer-Challenge/bin/Release/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/katlegonkuna/Projects/Packer-Challenge/Packer-Challenge/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/Users/katlegonkuna/Projects/Packer-Challenge/Packer-Challenge/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/katlegonkuna/Projects/Packer-Challenge/Packer-Challenge/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/katlegonkuna/Projects/Packer-Challenge/Packer-Challenge/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
