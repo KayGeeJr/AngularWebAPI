@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{88F9F7B0-146D-4238-B5EC-68F38E34DAD8}|https">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Packer-Challenge/Controllers/PackerController.cs">
+    <Files>
+      <File FileName="Packer-Challenge/Controllers/PackerController.cs" Line="3" Column="34" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Packer-Challenge" expanded="True">
-            <Node name="Packer-Challenge" expanded="True">
+            <Node name="Packer-Challenge" expanded="True" selected="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Exceptions" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="Item.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>

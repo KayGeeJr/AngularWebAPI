@@ -1,0 +1,20 @@
+Algorithms:
+
+GetInputData: This method reads the input data from a file specified by the filePath parameter. It checks if the file exists and returns the lines of the file as the response.
+
+Pack: This method performs the packing of items based on the input data. It reads the input data from the file, validates the format, and extracts the maximum weight and items. It then applies a dynamic programming algorithm (GetBestCombinationAsString) to determine the best combination of items to pack within the weight limit. The result is returned as a string.
+
+
+Data Structures:
+
+Item: It represents an item with properties like index, weight, and cost. It is used to store individual items parsed from the input data.
+List<T>: Lists are used to store collections of items, such as the parsed items and the indexes of items in the best combination.
+
+
+Design Patterns:
+The code follows the Model-View-Controller (MVC) design pattern, where the PackerController acts as a controller responsible for handling requests and performing the necessary operations. It separates the concerns of data processing (model) and handling HTTP requests (controller).
+
+Exceptions:
+The code defines a custom exception class named APIException to handle specific exceptions related to the API. It throws and catches this exception to provide appropriate error messages in case of issues like file not found, invalid input format, or invalid values.
+
+Overall, the code employs a simple and straightforward approach to solve the packing problem using dynamic programming. It follows good coding practices like encapsulating logic into separate methods, using appropriate data structures, handling exceptions, and adhering to the MVC design pattern.

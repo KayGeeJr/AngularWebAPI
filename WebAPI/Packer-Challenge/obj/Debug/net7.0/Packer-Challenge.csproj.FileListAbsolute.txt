@@ -64,3 +64,36 @@
 /Users/katlegonkuna/Desktop/Package Challenge/WebAPI/Packer-Challenge/obj/Debug/net7.0/Packer-Challenge.pdb
 /Users/katlegonkuna/Desktop/Package Challenge/WebAPI/Packer-Challenge/obj/Debug/net7.0/Packer-Challenge.genruntimeconfig.cache
 /Users/katlegonkuna/Desktop/Package Challenge/WebAPI/Packer-Challenge/obj/Debug/net7.0/ref/Packer-Challenge.dll
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/bin/Debug/net7.0/appsettings.Development.json
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/bin/Debug/net7.0/appsettings.json
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/bin/Debug/net7.0/Packer-Challenge
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/bin/Debug/net7.0/Packer-Challenge.deps.json
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/bin/Debug/net7.0/Packer-Challenge.runtimeconfig.json
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/bin/Debug/net7.0/Packer-Challenge.dll
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/bin/Debug/net7.0/Packer-Challenge.pdb
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/Packer-Challenge.csproj.AssemblyReference.cache
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/Packer-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/Packer-Challenge.AssemblyInfoInputs.cache
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/Packer-Challenge.AssemblyInfo.cs
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/Packer-Challenge.csproj.CoreCompileInputs.cache
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/Packer-Challenge.MvcApplicationPartsAssemblyInfo.cs
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/Packer-Challenge.MvcApplicationPartsAssemblyInfo.cache
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/staticwebassets/msbuild.Packer-Challenge.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/staticwebassets/msbuild.build.Packer-Challenge.props
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Packer-Challenge.props
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Packer-Challenge.props
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/staticwebassets.build.json
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/staticwebassets.development.json
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/scopedcss/bundle/Packer-Challenge.styles.css
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/Packer-Challenge.csproj.CopyComplete
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/Packer-Challenge.dll
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/refint/Packer-Challenge.dll
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/Packer-Challenge.pdb
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/Packer-Challenge.genruntimeconfig.cache
+/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/Debug/net7.0/ref/Packer-Challenge.dll

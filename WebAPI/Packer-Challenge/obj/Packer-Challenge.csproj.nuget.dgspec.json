@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/katlegonkuna/Desktop/Package Challenge/WebAPI/Packer-Challenge/Packer-Challenge.csproj": {}
+    "/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/Packer-Challenge.csproj": {}
   },
   "projects": {
-    "/Users/katlegonkuna/Desktop/Package Challenge/WebAPI/Packer-Challenge/Packer-Challenge.csproj": {
+    "/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/Packer-Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/katlegonkuna/Desktop/Package Challenge/WebAPI/Packer-Challenge/Packer-Challenge.csproj",
+        "projectUniqueName": "/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/Packer-Challenge.csproj",
         "projectName": "Packer-Challenge",
-        "projectPath": "/Users/katlegonkuna/Desktop/Package Challenge/WebAPI/Packer-Challenge/Packer-Challenge.csproj",
+        "projectPath": "/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/Packer-Challenge.csproj",
         "packagesPath": "/Users/katlegonkuna/.nuget/packages/",
-        "outputPath": "/Users/katlegonkuna/Desktop/Package Challenge/WebAPI/Packer-Challenge/obj/",
+        "outputPath": "/Users/katlegonkuna/Desktop/AngularAPI/WebAPI/Packer-Challenge/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/katlegonkuna/.nuget/NuGet/NuGet.Config"
